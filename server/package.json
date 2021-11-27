@@ -1,0 +1,15 @@
+{
+  "name": "rockPaperScissor",
+  "version": "1.0.0",
+  "description": "server for rock paper cissor game",
+  "main": "index.js",
+  "repository": "https://github.com/Dreammaker001/Rock-Paper-Scissor-Game",
+  "author": "Bastian Bangun",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.12.0-alpha.1"
+  }
+}
